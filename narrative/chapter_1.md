@@ -350,22 +350,20 @@ investigators need to find:
     the investigators enter the shelter deck, although it may occur
     sooner if the investigators decide to carry out a thorough deck-
     by-deck search. It can also be moved to any other passenger deck
-    as required.
-	
-> You come around a corner to find piles of debris on either side of the
-> corridor. A clear path runs between the piles, and beyond them is a
-> scene of carnage. The cabin doors at the end of the corridor have been
-> smashed inward and are covered in gore. Blood lies congealed in thick
-> pools, littered with parts of what were once people: viscera and chunks
-> of unidentifiable flesh; an arm here; a foot there, still in a shoe. Worse
-> are the heads, rolling back and forth as the ship rocks, their faces masks
-> of terror, seemingly ready to scream at any moment. There must be the
-> remains of at least a dozen people here, ripped apart, their limbs and
-> flesh distorted from the violence of their dismemberment.
-
+    as required.	
+  > You come around a corner to find piles of debris on either side of the
+  > corridor. A clear path runs between the piles, and beyond them is a
+  > scene of carnage. The cabin doors at the end of the corridor have been
+  > smashed inward and are covered in gore. Blood lies congealed in thick
+  > pools, littered with parts of what were once people: viscera and chunks
+  > of unidentifiable flesh; an arm here; a foot there, still in a shoe. Worse
+  > are the heads, rolling back and forth as the ship rocks, their faces masks
+  > of terror, seemingly ready to scream at any moment. There must be the
+  > remains of at least a dozen people here, ripped apart, their limbs and
+  > flesh distorted from the violence of their dismemberment.
   * Seeing the gruesome sight requires a **Sanity** roll (1/1D4+1
     loss). 
-* Handouts
+* Handouts: N/A
 
 ##### Upper Deck <a name="upper_deck"></a>
 
@@ -406,7 +404,7 @@ investigators need to find:
 * Events
 * Handouts
 
-##### Promenade Deck <a name="promenade_deck"></a>
+##### Promenade Deck (3) <a name="promenade_deck"></a>
 
 * Description: The promenade deck is the second deck from the top of
   the ship and contains first- and second-class cabins and amenities,
@@ -431,13 +429,45 @@ investigators need to find:
     observation room previously allowed the first-class passengers to
     watch the crew working. The windows there are smashed outward, and
     the same black ichor the investigators may have found on the
-    shelter deck.
+    shelter deck is smeared on the broken glass.
+  * 
 * Connections:
   * [Boat Deck](#boat_deck) (above)
   * [Shelter Deck](#shelter_deck) (below)
 * Clues:
-* Events
-* Handouts
+* Events: 
+  * The Summoners' Suite (14): on the port side of the ship, just
+    forward of the first-class promenade, is suite A5, one of the two
+    largest first-class suites, officially known as the “regal
+    suites.” The suite was booked by Dr. Sebastian for himself and the
+    dig team and is where the Summoners did most of their planning and
+    scheming. It is also where they retreated to after assisting in
+    the Order’s destruction, having barricaded the doors against the
+    other surviving passengers. (If the investigators have already
+    visited the third-class dining saloon, Handout: Terror 2
+    identifies the suite’s occupants as Dr. Sebastian and his dig
+    team).  
+	* When the investigators come upon suite A5’s entrance:
+	> This section of corridor clearly witnessed a struggle of a
+    > different  kind. The blood spatter on the walls here has bullet
+    > holes in the center of it. All the holes face a single,
+    > bullet-riddled door, as if someone—or, perhaps, a group of
+    > people?—shot through it from inside the stateroom at those
+    > gathered in the hallway. The bodies of two men lie crumpled in
+    > a heap beneath the blood-soaked wall, the unfortunate victims
+    > of a lethal amount of lead poisonin
+    * Interior:
+	> Inside the suite, things couldn’t be more different. Everything
+    > is cleaner, almost immaculate after the chaos of the corridor. A
+    > few glasses and small decorative items roll about on the
+    > floor. A couch and an upturned table are positioned near the
+    > main door, a clear attempt at making a defensible position. All
+    > the furniture is intact, though, as if the makeshift barricade
+    > never had to withstand an attack. Similarly pristine barricades
+    > of chairs and side tables block the suite’s other exterior
+	> doors. 
+* Handouts: 
+  * Summoners Suite: Terror 1
 
 ##### Boat Deck <a name="boat_deck"></a>
 
