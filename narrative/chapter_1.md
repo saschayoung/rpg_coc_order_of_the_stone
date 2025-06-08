@@ -309,6 +309,15 @@ investigators need to find:
 
 ##### Shelter Deck <a name="shelter_deck"></a>
 
+* Description: The investigators come aboard the SS Champagne on its
+  shelter deck. Both sides of the deck have promenades running most of
+  the way from the ship’s bow to its stern, save for a small section
+  at the bow (accessible only by the ship’s crew). The sections
+  between the promenades contain several third- class and maintenance
+  areas, as well as rooms with balconies overlooking the first-class
+  and second-class dining areas. There is also a section containing
+  second-class cabins. 
+
 > The deck you arrive on is devoid of life, and it is immediately
 > clear that all is not well. Wooden debris, strips of cloth, and
 > batting mark where deckchairs must have once stood. Broken glassware
@@ -320,19 +329,42 @@ investigators need to find:
 > handprint, a small pool of congealed blood—whatever happened here,
 > it was dreadful.
 
-* Description: The investigators come aboard the SS Champagne on its
-  shelter deck. Both sides of the deck have promenades running most of
-  the way from the ship’s bow to its stern, save for a small section
-  at the bow (accessible only by the ship’s crew). The sections
-  between the promenades contain several third- class and maintenance
-  areas, as well as rooms with balconies overlooking the first-class
-  and second-class dining areas. There is also a section containing
-  second-class cabins. 
+* Once the investigators leave the open promenade where they came
+  aboard, they soon find all the rooms on this deck are in disarray.
+  
+> The corridor you enter is at least drier and less windy than where
+> you came aboard. But it is no less disturbing. Doors bang open and
+> shut, and personal effects and chunks of broken porcelain slide
+> across the floor as the ship sways from side to side. Smears of
+> blood cover the walls and floor, echoing what you saw on deck.
+
 * Connections:
-  * Promenade Deck (above)
-  * [Upper Deck](#above) (below)
+  * [Promenade Deck](#promenade_deck) (above)
+  * [Upper Deck](#upper_deck) (below)
 * Clues:
-* Events
+  * A successful **Spot Hidden** roll reveals that the sharper pieces
+    of wood in the debris pile are covered in some sort of
+    unidentifiable black goo.
+* Events:
+  * Attack site: This scene should take place the second or third time
+    the investigators enter the shelter deck, although it may occur
+    sooner if the investigators decide to carry out a thorough deck-
+    by-deck search. It can also be moved to any other passenger deck
+    as required.
+	
+> You come around a corner to find piles of debris on either side of the
+> corridor. A clear path runs between the piles, and beyond them is a
+> scene of carnage. The cabin doors at the end of the corridor have been
+> smashed inward and are covered in gore. Blood lies congealed in thick
+> pools, littered with parts of what were once people: viscera and chunks
+> of unidentifiable flesh; an arm here; a foot there, still in a shoe. Worse
+> are the heads, rolling back and forth as the ship rocks, their faces masks
+> of terror, seemingly ready to scream at any moment. There must be the
+> remains of at least a dozen people here, ripped apart, their limbs and
+> flesh distorted from the violence of their dismemberment.
+
+  * Seeing the gruesome sight requires a **Sanity** roll (1/1D4+1
+    loss). 
 * Handouts
 
 ##### Upper Deck <a name="upper_deck"></a>
@@ -376,6 +408,12 @@ investigators need to find:
 
 ##### Promenade Deck <a name="promenade_deck"></a>
 
+* Description: The promenade deck is the second deck from the top of
+  the ship and contains first- and second-class cabins and amenities,
+  with a large open deck area in the bow. Spacious promenades run the
+  majority of the deck’s length, reserved mostly for first-class
+  passengers.
+
 > Like the deck below it, blood smears along the walls
 > and pools on the floor show that people must have died here, yet
 > there are few bodies. Discarded personal effects roll around your
@@ -386,12 +424,16 @@ investigators need to find:
 > passengers from all walks of life. None of them seem to have been
 > exempt from the butchery and chaos.
 
-* Description: The promenade deck is the second deck from the top of
-  the ship and contains first- and second-class cabins and amenities,
-  with a large open deck area in the bow. Spacious promenades run the
-  majority of the deck’s length, reserved mostly for first-class
-  passengers.
-  * 
+  * Unless the investigators have lost the maximum number of Sanity
+    points for witnessing mutilated bodies, i.e., 5 (1D4+1), they must
+    make a **Sanity** roll at the sight of yet more badly mauled
+    corpses (1/1D4+1 loss)
+  * The large deck area at the bow is usually crew-only, and contains
+    various pieces of equipment, capstans, and hatches.  Behind it, an
+    observation room previously allowed the first-class passengers to
+    watch the crew working. The windows there are smashed outward, and
+    the same black ichor the investigators may have found on the
+    shelter deck.
 * Connections:
   * [Boat Deck](#boat_deck) (above)
   * [Shelter Deck](#shelter_deck) (below)
@@ -421,6 +463,4 @@ investigators need to find:
 
 
 
-
-{{tag>"Call of Cthulhu" Campaign Notes}}
 
