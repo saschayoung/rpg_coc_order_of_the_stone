@@ -413,17 +413,15 @@ investigators need to find:
   with a large open deck area in the bow. Spacious promenades run the
   majority of the deck’s length, reserved mostly for first-class
   passengers.
-
-> Like the deck below it, blood smears along the walls
-> and pools on the floor show that people must have died here, yet
-> there are few bodies. Discarded personal effects roll around your
-> feet, dropped, presumably, in their owners’ flight from whatever
-> killed so many people. Here and there, a mangled corpse lies in a
-> tangle of viscera, but human remains are the exception, not the
-> rule. Some of the bodies are obviously crew, others clearly
-> passengers from all walks of life. None of them seem to have been
-> exempt from the butchery and chaos.
-
+  > Like the deck below it, blood smears along the walls
+  > and pools on the floor show that people must have died here, yet
+  > there are few bodies. Discarded personal effects roll around your
+  > feet, dropped, presumably, in their owners’ flight from whatever
+  > killed so many people. Here and there, a mangled corpse lies in a
+  > tangle of viscera, but human remains are the exception, not the
+  > rule. Some of the bodies are obviously crew, others clearly
+  > passengers from all walks of life. None of them seem to have been
+  > exempt from the butchery and chaos.
   * Unless the investigators have lost the maximum number of Sanity
     points for witnessing mutilated bodies, i.e., 5 (1D4+1), they must
     make a **Sanity** roll at the sight of yet more badly mauled
